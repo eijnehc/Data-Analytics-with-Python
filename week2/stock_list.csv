@@ -1,0 +1,6 @@
+,stock_name,stock_ticker,price,pe_ratio,market_cap,eps
+0,Apple Inc.,AAPL,444.45,33.71,1.9T,13.19
+1,Alphabet Inc.,GOOG,"1,494.49",32.85,1.018T,45.49
+2,"Facebook, Inc.",FB,268.44,32.82,764.737B,8.18
+3,"Amazon.com, Inc.",AMZN,"3,167.46",121.65,1.587T,26.04
+4,"Zoom Video Communications, Inc.",ZM,258.73,"1,530.95",72.989B,0.17
